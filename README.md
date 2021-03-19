@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [ci/cd](https://github.com/CallMeCody/auth-api/actions) (GitHub Actions)
-- [HEROKU APP](https://dashboard.heroku.com/apps/auth-api-lab/deploy/github)
+- [HEROKU APP](https://auth-api-lab.herokuapp.com)
 - [Pull Request](https://github.com/CallMeCody/auth-api/pull/1)
 
 ### Setup
